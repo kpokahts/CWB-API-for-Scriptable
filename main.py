@@ -20,3 +20,5 @@ def get_radar(stn:str):
     full_url = f'https://www.cwb.gov.tw/Data/radar_rain/{image_url}'
 
     return full_url
+
+#github actions to aws lambda test
